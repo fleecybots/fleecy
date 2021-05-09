@@ -50,7 +50,7 @@ you've just cloned!!
 > pkg update && pkg upgrade 
 > pkg install nodejs
 > pkg install tesseract 
-> git clone https://github.com/fleecybots/fleecy
+> git clone https://github.com/fleecybots/fleecy.git
 > cd fleecy
 > bash install.sh
 ```
